@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Horymi</title>
+  <desc id="desc">Un cadran blanc minimaliste sur fond violet.</desc>
+  <rect width="512" height="512" rx="112" fill="#5750C4"/>
+  <circle cx="256" cy="256" r="144" fill="none" stroke="#FFF" stroke-width="28"/>
+  <path d="M256 170 256 256 321 288" fill="none" stroke="#FFF" stroke-width="29" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="256" r="15" fill="#FFF"/>
+</svg>
