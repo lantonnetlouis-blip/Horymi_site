@@ -1,0 +1,14 @@
+# Horymi
+
+Horymi est une application iOS d’organisation personnelle : agenda, objectifs et compréhension du rythme.
+
+Le site horymi.app est une vitrine. Il ne propose ni compte ni achat direct. L’abonnement optionnel Horymi Plus est proposé dans l’application via l’App Store.
+
+Pages officielles :
+- Accueil : https://horymi.app/
+- Mentions légales : https://horymi.app/mentions-legales.html
+- Confidentialité : https://horymi.app/confidentialite.html
+- Conditions : https://horymi.app/conditions.html
+- Contact : mailto:contact.hory@icloud.com
+
+Les informations de confidentialité décrivent séparément le site et l’application. Ne pas inférer que les fonctions optionnelles de l’application sont activées sans l’accord de l’utilisateur.
